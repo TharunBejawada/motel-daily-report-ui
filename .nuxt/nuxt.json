@@ -1,9 +1,9 @@
 {
-  "_hash": "gOrrn_X5zoXgfNQQiwD6LPU0HIKVV1uHpEsWmf3-FNc",
+  "_hash": "9PyBWjNhb1d3r2qXpUdzV6Lx6o1PuznVlWsKiIZdaoA",
   "project": {
-    "rootDir": "/Users/tharunbejawada/Desktop/Nitish Work/email-chatbot-ui"
+    "rootDir": "/Users/tharunbejawada/Desktop/Nitish Work/motel-daily-report-ui"
   },
   "versions": {
-    "nuxt": "3.11.2"
+    "nuxt": "3.13.2"
   }
 }

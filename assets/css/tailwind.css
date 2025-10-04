@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* small niceties */
+.table-row-hover:hover {
+  background-color: rgba(0,0,0,0.03);
+  transition: background-color .2s ease-in-out;
+}
