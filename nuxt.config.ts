@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  ssr: true,
+  ssr: false,
 
   css: ['~/assets/css/tailwind.css'],
 
@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
 
   nitro: {
-    preset: 'node'
+    preset: 'static'
   },
 
   experimental: {
