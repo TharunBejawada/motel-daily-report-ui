@@ -1,1 +1,0 @@
-import{m as a,c as s,b as t,a as o,C as n,o as c,D as r}from"./BJFylneX.js";const _={class:"min-h-screen bg-gray-50"},m={class:"mx-auto max-w-6xl px-4 py-6"},p=a({__name:"default",setup(l){return(e,d)=>(c(),s("div",_,[t(r),o("main",m,[n(e.$slots,"default")])]))}});export{p as default};

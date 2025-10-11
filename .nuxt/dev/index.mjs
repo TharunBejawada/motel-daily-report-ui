@@ -1125,16 +1125,16 @@ const plugins = [
 const assets = {
   "/index.mjs": {
     "type": "text/javascript; charset=utf-8",
-    "etag": "\"123ee-BUkjoNm5P5KhaHJnQcP8Ygwrh/U\"",
-    "mtime": "2025-10-06T16:38:57.358Z",
-    "size": 74734,
+    "etag": "\"12257-tqw/9VbaakSTTJTMY3Mz6iAz4d4\"",
+    "mtime": "2025-10-09T16:50:26.995Z",
+    "size": 74327,
     "path": "index.mjs"
   },
   "/index.mjs.map": {
     "type": "application/json",
-    "etag": "\"446b5-Y93dI8Cc10b52rCSOjCfkyyLYJE\"",
-    "mtime": "2025-10-06T16:38:57.358Z",
-    "size": 280245,
+    "etag": "\"446a6-aaPXPAxN//9AoVv5bQmgmBS7pUI\"",
+    "mtime": "2025-10-09T16:50:26.995Z",
+    "size": 280230,
     "path": "index.mjs.map"
   }
 };
